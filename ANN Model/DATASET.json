@@ -1,0 +1,8082 @@
+[
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 264.1,
+    "DAM CONTRIBUTION": 11,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 143.8,
+    "DAM CONTRIBUTION": 7,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 275.2,
+    "DAM CONTRIBUTION": 13.9,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 234,
+    "DAM CONTRIBUTION": 7.7,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 128.3,
+    "DAM CONTRIBUTION": 14.2,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 249.1,
+    "DAM CONTRIBUTION": 15.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 274.5,
+    "DAM CONTRIBUTION": 15.3,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 366.9,
+    "DAM CONTRIBUTION": 6.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 234.3,
+    "DAM CONTRIBUTION": 7.4,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1917,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 298.3,
+    "DAM CONTRIBUTION": 6.4,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 150.4,
+    "DAM CONTRIBUTION": 6.2,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 234.6,
+    "DAM CONTRIBUTION": 3.7,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 144.2,
+    "DAM CONTRIBUTION": 3.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 192.2,
+    "DAM CONTRIBUTION": 13.4,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 226,
+    "DAM CONTRIBUTION": 13.5,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 324.9,
+    "DAM CONTRIBUTION": 13.9,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 303.1,
+    "DAM CONTRIBUTION": 14.9,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 164.9,
+    "DAM CONTRIBUTION": 13.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 267,
+    "DAM CONTRIBUTION": 12.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1918,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 114.9,
+    "DAM CONTRIBUTION": 12.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 274.2,
+    "DAM CONTRIBUTION": 9.2,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 238.6,
+    "DAM CONTRIBUTION": 7.6,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 289.6,
+    "DAM CONTRIBUTION": 7.1,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 229.9,
+    "DAM CONTRIBUTION": 9.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 177.2,
+    "DAM CONTRIBUTION": 6.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 306.9,
+    "DAM CONTRIBUTION": 6.9,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 292.3,
+    "DAM CONTRIBUTION": 7.6,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 163.3,
+    "DAM CONTRIBUTION": 9.4,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 245.9,
+    "DAM CONTRIBUTION": 13.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1919,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 157.6,
+    "DAM CONTRIBUTION": 10.9,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 280.2,
+    "DAM CONTRIBUTION": 10.2,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 229,
+    "DAM CONTRIBUTION": 9.1,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 276.1,
+    "DAM CONTRIBUTION": 7.2,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 281.6,
+    "DAM CONTRIBUTION": 11.8,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 194.8,
+    "DAM CONTRIBUTION": 7.9,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 213.5,
+    "DAM CONTRIBUTION": 11.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 167.3,
+    "DAM CONTRIBUTION": 10.9,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 180.4,
+    "DAM CONTRIBUTION": 10.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 126.8,
+    "DAM CONTRIBUTION": 10.92,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1920,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 244.4,
+    "DAM CONTRIBUTION": 10.34,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 205,
+    "DAM CONTRIBUTION": 7.53,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 311.1,
+    "DAM CONTRIBUTION": 10.7,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 288.9,
+    "DAM CONTRIBUTION": 9.93,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 274.3,
+    "DAM CONTRIBUTION": 12.32,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 192.1,
+    "DAM CONTRIBUTION": 6.12,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 257.2,
+    "DAM CONTRIBUTION": 6.72,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 214.3,
+    "DAM CONTRIBUTION": 7.08,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 297.7,
+    "DAM CONTRIBUTION": 8.82,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 172.6,
+    "DAM CONTRIBUTION": 8.78,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1921,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 256.2,
+    "DAM CONTRIBUTION": 12.65,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 196.1,
+    "DAM CONTRIBUTION": 14.67,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 267.6,
+    "DAM CONTRIBUTION": 16.21,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 268.7,
+    "DAM CONTRIBUTION": 13.43,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 178.2,
+    "DAM CONTRIBUTION": 9.22,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 294.4,
+    "DAM CONTRIBUTION": 7.88,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 238.4,
+    "DAM CONTRIBUTION": 9.39,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 275.1,
+    "DAM CONTRIBUTION": 6.72,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 241.8,
+    "DAM CONTRIBUTION": 7.07,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 223.2,
+    "DAM CONTRIBUTION": 6.59,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1922,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 262.4,
+    "DAM CONTRIBUTION": 7.98,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 291.9,
+    "DAM CONTRIBUTION": 6.97,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 205.4,
+    "DAM CONTRIBUTION": 5.89,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 264.9,
+    "DAM CONTRIBUTION": 14.89,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 220.2,
+    "DAM CONTRIBUTION": 15.21,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 129.5,
+    "DAM CONTRIBUTION": 9.89,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 223.1,
+    "DAM CONTRIBUTION": 9.21,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 280.5,
+    "DAM CONTRIBUTION": 9.32,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 168.4,
+    "DAM CONTRIBUTION": 12.54,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 211.8,
+    "DAM CONTRIBUTION": 12.78,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1923,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 248.9,
+    "DAM CONTRIBUTION": 12.98,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 212.3,
+    "DAM CONTRIBUTION": 12.89,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 165.7,
+    "DAM CONTRIBUTION": 12.98,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 292.3,
+    "DAM CONTRIBUTION": 13.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 140.1,
+    "DAM CONTRIBUTION": 11.89,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 274.4,
+    "DAM CONTRIBUTION": 8.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 318.8,
+    "DAM CONTRIBUTION": 7.88,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 165.6,
+    "DAM CONTRIBUTION": 11.89,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 239,
+    "DAM CONTRIBUTION": 6.93,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 99.3,
+    "DAM CONTRIBUTION": 12.56,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1924,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 198.5,
+    "DAM CONTRIBUTION": 9.79,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 130.5,
+    "DAM CONTRIBUTION": 13.78,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 227.7,
+    "DAM CONTRIBUTION": 9.24,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 235.2,
+    "DAM CONTRIBUTION": 5.62,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 174.8,
+    "DAM CONTRIBUTION": 17.01,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 201.9,
+    "DAM CONTRIBUTION": 17.82,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 184.4,
+    "DAM CONTRIBUTION": 16.89,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 146.3,
+    "DAM CONTRIBUTION": 13.34,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 239.4,
+    "DAM CONTRIBUTION": 11.88,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 200,
+    "DAM CONTRIBUTION": 12.88,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1925,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 219,
+    "DAM CONTRIBUTION": 9.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 201.6,
+    "DAM CONTRIBUTION": 9.76,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 246.5,
+    "DAM CONTRIBUTION": 7.82,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 87.1,
+    "DAM CONTRIBUTION": 16.86,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 251,
+    "DAM CONTRIBUTION": 17.54,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 267.4,
+    "DAM CONTRIBUTION": 17.92,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 324.3,
+    "DAM CONTRIBUTION": 11.98,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 267.7,
+    "DAM CONTRIBUTION": 10.98,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 218.4,
+    "DAM CONTRIBUTION": 9.96,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 168.2,
+    "DAM CONTRIBUTION": 9.97,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1926,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 148.3,
+    "DAM CONTRIBUTION": 7.22,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 142.4,
+    "DAM CONTRIBUTION": 17.89,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 174.6,
+    "DAM CONTRIBUTION": 15.66,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 195.8,
+    "DAM CONTRIBUTION": 17.92,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 203,
+    "DAM CONTRIBUTION": 15.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 109,
+    "DAM CONTRIBUTION": 9.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 197.9,
+    "DAM CONTRIBUTION": 7.63,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 178.5,
+    "DAM CONTRIBUTION": 6.21,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 202.3,
+    "DAM CONTRIBUTION": 7.82,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 124,
+    "DAM CONTRIBUTION": 6.82,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1927,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 206.8,
+    "DAM CONTRIBUTION": 9.89,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 205.4,
+    "DAM CONTRIBUTION": 13.64,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 299,
+    "DAM CONTRIBUTION": 5.27,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 202,
+    "DAM CONTRIBUTION": 8.11,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 71.8,
+    "DAM CONTRIBUTION": 15.12,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 37.9,
+    "DAM CONTRIBUTION": 18.25,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 247.1,
+    "DAM CONTRIBUTION": 12.81,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 564.4,
+    "DAM CONTRIBUTION": 11.76,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 366,
+    "DAM CONTRIBUTION": 13.17,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 242.6,
+    "DAM CONTRIBUTION": 16.02,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1928,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 338.5,
+    "DAM CONTRIBUTION": 13.51,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 93.4,
+    "DAM CONTRIBUTION": 12.21,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 291.1,
+    "DAM CONTRIBUTION": 6.06,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 213.8,
+    "DAM CONTRIBUTION": 14.67,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 137.7,
+    "DAM CONTRIBUTION": 17.89,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 116.3,
+    "DAM CONTRIBUTION": 13.67,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 418.9,
+    "DAM CONTRIBUTION": 4.85,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 379.2,
+    "DAM CONTRIBUTION": 14.92,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 213.4,
+    "DAM CONTRIBUTION": 11.81,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 481.2,
+    "DAM CONTRIBUTION": 6.24,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1929,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 110.4,
+    "DAM CONTRIBUTION": 9.78,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 205.4,
+    "DAM CONTRIBUTION": 9.11,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 106.8,
+    "DAM CONTRIBUTION": 11.69,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 157.5,
+    "DAM CONTRIBUTION": 12.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 267,
+    "DAM CONTRIBUTION": 9.56,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 81.8,
+    "DAM CONTRIBUTION": 15.13,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 471,
+    "DAM CONTRIBUTION": 12.76,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 199.2,
+    "DAM CONTRIBUTION": 16.97,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 220.5,
+    "DAM CONTRIBUTION": 10.77,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 150.7,
+    "DAM CONTRIBUTION": 7.84,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1930,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 152.9,
+    "DAM CONTRIBUTION": 15.93,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 546.3,
+    "DAM CONTRIBUTION": 16.17,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 146.6,
+    "DAM CONTRIBUTION": 8.49,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 473.6,
+    "DAM CONTRIBUTION": 15.95,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 392.9,
+    "DAM CONTRIBUTION": 16.25,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 107.1,
+    "DAM CONTRIBUTION": 14.96,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 52.9,
+    "DAM CONTRIBUTION": 14.58,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 32,
+    "DAM CONTRIBUTION": 8.68,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 134.6,
+    "DAM CONTRIBUTION": 16.31,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 265.3,
+    "DAM CONTRIBUTION": 18.44,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1931,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 241.8,
+    "DAM CONTRIBUTION": 16.17,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 187.7,
+    "DAM CONTRIBUTION": 11.99,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 367.8,
+    "DAM CONTRIBUTION": 5.62,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 80.9,
+    "DAM CONTRIBUTION": 6.87,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 502.7,
+    "DAM CONTRIBUTION": 6.01,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 245.3,
+    "DAM CONTRIBUTION": 18.28,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 469.6,
+    "DAM CONTRIBUTION": 16.34,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 257.1,
+    "DAM CONTRIBUTION": 7.15,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 115.9,
+    "DAM CONTRIBUTION": 9.47,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 205.5,
+    "DAM CONTRIBUTION": 15.61,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1932,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 76.9,
+    "DAM CONTRIBUTION": 13.09,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 162.6,
+    "DAM CONTRIBUTION": 13.19,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 136.4,
+    "DAM CONTRIBUTION": 8.06,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 552.9,
+    "DAM CONTRIBUTION": 16.98,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 214.1,
+    "DAM CONTRIBUTION": 17.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 393.5,
+    "DAM CONTRIBUTION": 11.51,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 329.8,
+    "DAM CONTRIBUTION": 6.87,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 198.7,
+    "DAM CONTRIBUTION": 4.9,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 287.1,
+    "DAM CONTRIBUTION": 14.22,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 321.8,
+    "DAM CONTRIBUTION": 4.35,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1933,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 210.6,
+    "DAM CONTRIBUTION": 12.37,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 174.6,
+    "DAM CONTRIBUTION": 6.39,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 181,
+    "DAM CONTRIBUTION": 8.45,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 350.9,
+    "DAM CONTRIBUTION": 4.64,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 296.3,
+    "DAM CONTRIBUTION": 8.16,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 165.9,
+    "DAM CONTRIBUTION": 13.89,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 71.2,
+    "DAM CONTRIBUTION": 7.82,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 204.1,
+    "DAM CONTRIBUTION": 7.49,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 297.1,
+    "DAM CONTRIBUTION": 6.09,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 154.6,
+    "DAM CONTRIBUTION": 9.44,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1934,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 495.8,
+    "DAM CONTRIBUTION": 6.82,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 194.1,
+    "DAM CONTRIBUTION": 4.78,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 180.4,
+    "DAM CONTRIBUTION": 7.66,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 364.5,
+    "DAM CONTRIBUTION": 10.1,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 103,
+    "DAM CONTRIBUTION": 15.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 449.6,
+    "DAM CONTRIBUTION": 6.13,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 482.4,
+    "DAM CONTRIBUTION": 15.04,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 242.9,
+    "DAM CONTRIBUTION": 9.93,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 405.7,
+    "DAM CONTRIBUTION": 15.96,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 441.3,
+    "DAM CONTRIBUTION": 17.38,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1935,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 249.1,
+    "DAM CONTRIBUTION": 5.54,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 377,
+    "DAM CONTRIBUTION": 17.97,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 266.3,
+    "DAM CONTRIBUTION": 13.52,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 405.9,
+    "DAM CONTRIBUTION": 15.59,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 421.4,
+    "DAM CONTRIBUTION": 7.6,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 182.5,
+    "DAM CONTRIBUTION": 15.41,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 149.4,
+    "DAM CONTRIBUTION": 8.91,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 180.6,
+    "DAM CONTRIBUTION": 5.54,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 245.5,
+    "DAM CONTRIBUTION": 6.43,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 298.3,
+    "DAM CONTRIBUTION": 17.33,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1936,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 530.5,
+    "DAM CONTRIBUTION": 16.5,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 133.8,
+    "DAM CONTRIBUTION": 16.83,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 244.4,
+    "DAM CONTRIBUTION": 10.81,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 69.5,
+    "DAM CONTRIBUTION": 16.58,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 370.1,
+    "DAM CONTRIBUTION": 6.93,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 127.4,
+    "DAM CONTRIBUTION": 16.82,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 228.5,
+    "DAM CONTRIBUTION": 4.69,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 358,
+    "DAM CONTRIBUTION": 17.51,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 196.1,
+    "DAM CONTRIBUTION": 18.06,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 55.1,
+    "DAM CONTRIBUTION": 16.71,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1937,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 133,
+    "DAM CONTRIBUTION": 9.4,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 256.8,
+    "DAM CONTRIBUTION": 17.57,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 238.5,
+    "DAM CONTRIBUTION": 8.94,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 314.6,
+    "DAM CONTRIBUTION": 17.17,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 553.7,
+    "DAM CONTRIBUTION": 17.11,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 229.4,
+    "DAM CONTRIBUTION": 14.65,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 624.8,
+    "DAM CONTRIBUTION": 5.06,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 345.6,
+    "DAM CONTRIBUTION": 17.57,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 369.5,
+    "DAM CONTRIBUTION": 5.46,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 143.5,
+    "DAM CONTRIBUTION": 5.62,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1938,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 431,
+    "DAM CONTRIBUTION": 12.77,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 451.7,
+    "DAM CONTRIBUTION": 10.62,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 230.3,
+    "DAM CONTRIBUTION": 7.61,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 211.1,
+    "DAM CONTRIBUTION": 9.47,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 138.6,
+    "DAM CONTRIBUTION": 16.04,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 37.4,
+    "DAM CONTRIBUTION": 17.42,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 240.2,
+    "DAM CONTRIBUTION": 15.38,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 229.8,
+    "DAM CONTRIBUTION": 14.48,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 452.9,
+    "DAM CONTRIBUTION": 8.66,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 194.8,
+    "DAM CONTRIBUTION": 17.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1939,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 668.3,
+    "DAM CONTRIBUTION": 17.8,
+    "ELEVATION": 0.66,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 311.5,
+    "DAM CONTRIBUTION": 16.09,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 325,
+    "DAM CONTRIBUTION": 4.96,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 562.1,
+    "DAM CONTRIBUTION": 15.64,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 415.6,
+    "DAM CONTRIBUTION": 13.39,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 290.2,
+    "DAM CONTRIBUTION": 18.03,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 66.7,
+    "DAM CONTRIBUTION": 5.93,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 624.9,
+    "DAM CONTRIBUTION": 18.03,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 423.2,
+    "DAM CONTRIBUTION": 17.35,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 488.8,
+    "DAM CONTRIBUTION": 11.55,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1940,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 128.9,
+    "DAM CONTRIBUTION": 11.74,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 168.3,
+    "DAM CONTRIBUTION": 14.04,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 320.1,
+    "DAM CONTRIBUTION": 18.26,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 110.5,
+    "DAM CONTRIBUTION": 8.79,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 335.9,
+    "DAM CONTRIBUTION": 18.21,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 268.1,
+    "DAM CONTRIBUTION": 6.57,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 529.7,
+    "DAM CONTRIBUTION": 18.16,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 314.8,
+    "DAM CONTRIBUTION": 18.11,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 295,
+    "DAM CONTRIBUTION": 15.55,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 297.3,
+    "DAM CONTRIBUTION": 10.5,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1941,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 199.3,
+    "DAM CONTRIBUTION": 12.18,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 406.1,
+    "DAM CONTRIBUTION": 8.74,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 903.3,
+    "DAM CONTRIBUTION": 17.93,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 372.7,
+    "DAM CONTRIBUTION": 4.31,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 353.7,
+    "DAM CONTRIBUTION": 12.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 426,
+    "DAM CONTRIBUTION": 15.54,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 332.5,
+    "DAM CONTRIBUTION": 13.71,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 540,
+    "DAM CONTRIBUTION": 8.42,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 241.3,
+    "DAM CONTRIBUTION": 9.97,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 266.1,
+    "DAM CONTRIBUTION": 17.35,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1942,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 356,
+    "DAM CONTRIBUTION": 6.35,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 133.4,
+    "DAM CONTRIBUTION": 11.21,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 577.8,
+    "DAM CONTRIBUTION": 10.56,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 342.6,
+    "DAM CONTRIBUTION": 14.43,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 210.3,
+    "DAM CONTRIBUTION": 7.07,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 208.3,
+    "DAM CONTRIBUTION": 5.96,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 671.9,
+    "DAM CONTRIBUTION": 5.23,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 501.1,
+    "DAM CONTRIBUTION": 4.82,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 484.2,
+    "DAM CONTRIBUTION": 6.29,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 625.9,
+    "DAM CONTRIBUTION": 14.47,
+    "ELEVATION": 0.87,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1943,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 518.8,
+    "DAM CONTRIBUTION": 16.4,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 291.7,
+    "DAM CONTRIBUTION": 10.31,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 216.7,
+    "DAM CONTRIBUTION": 17.56,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 185.9,
+    "DAM CONTRIBUTION": 16.68,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 290,
+    "DAM CONTRIBUTION": 9.92,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 730.7,
+    "DAM CONTRIBUTION": 8.77,
+    "ELEVATION": 0.66,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 218.6,
+    "DAM CONTRIBUTION": 11.17,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 487.7,
+    "DAM CONTRIBUTION": 5.74,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 240,
+    "DAM CONTRIBUTION": 10.67,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 355,
+    "DAM CONTRIBUTION": 14.01,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1944,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 109.9,
+    "DAM CONTRIBUTION": 11.31,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 661.3,
+    "DAM CONTRIBUTION": 5.95,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 257.1,
+    "DAM CONTRIBUTION": 17.85,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 336.8,
+    "DAM CONTRIBUTION": 8.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 632.6,
+    "DAM CONTRIBUTION": 7.97,
+    "ELEVATION": 0.87,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 218.3,
+    "DAM CONTRIBUTION": 15.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 365.1,
+    "DAM CONTRIBUTION": 17.21,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 298.8,
+    "DAM CONTRIBUTION": 17.33,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 291.4,
+    "DAM CONTRIBUTION": 6.49,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 371,
+    "DAM CONTRIBUTION": 16.8,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1945,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 442.4,
+    "DAM CONTRIBUTION": 10.46,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 316.4,
+    "DAM CONTRIBUTION": 6.37,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 413.2,
+    "DAM CONTRIBUTION": 16.83,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 279.1,
+    "DAM CONTRIBUTION": 15.52,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 331.3,
+    "DAM CONTRIBUTION": 7.25,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 261.2,
+    "DAM CONTRIBUTION": 18.09,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 253.6,
+    "DAM CONTRIBUTION": 5.55,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 208.4,
+    "DAM CONTRIBUTION": 13.08,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 301.4,
+    "DAM CONTRIBUTION": 16,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 135.5,
+    "DAM CONTRIBUTION": 8.58,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1946,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 219.5,
+    "DAM CONTRIBUTION": 18.35,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 584.4,
+    "DAM CONTRIBUTION": 17.85,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 565.2,
+    "DAM CONTRIBUTION": 7.91,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 280.7,
+    "DAM CONTRIBUTION": 13.04,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 174.2,
+    "DAM CONTRIBUTION": 11.04,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 268.7,
+    "DAM CONTRIBUTION": 6.92,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 414.3,
+    "DAM CONTRIBUTION": 13.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 274.4,
+    "DAM CONTRIBUTION": 4.89,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 408.8,
+    "DAM CONTRIBUTION": 8.5,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 250.5,
+    "DAM CONTRIBUTION": 7.47,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1947,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 247.2,
+    "DAM CONTRIBUTION": 13.26,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 161.8,
+    "DAM CONTRIBUTION": 9.84,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 119.4,
+    "DAM CONTRIBUTION": 14.77,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 573.1,
+    "DAM CONTRIBUTION": 9.48,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 351.2,
+    "DAM CONTRIBUTION": 9.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 221.6,
+    "DAM CONTRIBUTION": 12.02,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 440.8,
+    "DAM CONTRIBUTION": 17.79,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 256.3,
+    "DAM CONTRIBUTION": 8.18,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 557.4,
+    "DAM CONTRIBUTION": 11.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 490.6,
+    "DAM CONTRIBUTION": 7.24,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1948,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 451,
+    "DAM CONTRIBUTION": 13.43,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 374.6,
+    "DAM CONTRIBUTION": 10.07,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 241.9,
+    "DAM CONTRIBUTION": 9.02,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 312.2,
+    "DAM CONTRIBUTION": 14.19,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 219.4,
+    "DAM CONTRIBUTION": 12.05,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 301.1,
+    "DAM CONTRIBUTION": 5.57,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 320,
+    "DAM CONTRIBUTION": 16.29,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 45.8,
+    "DAM CONTRIBUTION": 4.4,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 518.7,
+    "DAM CONTRIBUTION": 6.66,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 238.2,
+    "DAM CONTRIBUTION": 16.59,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1949,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 378.7,
+    "DAM CONTRIBUTION": 11.07,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 576,
+    "DAM CONTRIBUTION": 16.04,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 567.8,
+    "DAM CONTRIBUTION": 8.85,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 261.9,
+    "DAM CONTRIBUTION": 8.02,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 390.3,
+    "DAM CONTRIBUTION": 9.16,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 328.2,
+    "DAM CONTRIBUTION": 11.69,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 259.2,
+    "DAM CONTRIBUTION": 14.84,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 178.2,
+    "DAM CONTRIBUTION": 10.29,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 405.4,
+    "DAM CONTRIBUTION": 16.54,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 307.5,
+    "DAM CONTRIBUTION": 8.53,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1950,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 354.7,
+    "DAM CONTRIBUTION": 5.98,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 18.1,
+    "DAM CONTRIBUTION": 10.4,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 281.2,
+    "DAM CONTRIBUTION": 12.09,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 183.2,
+    "DAM CONTRIBUTION": 9.75,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 138,
+    "DAM CONTRIBUTION": 9.6,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 81.3,
+    "DAM CONTRIBUTION": 9.03,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 134.8,
+    "DAM CONTRIBUTION": 7.67,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 71,
+    "DAM CONTRIBUTION": 7.86,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 151.3,
+    "DAM CONTRIBUTION": 11.19,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 96.1,
+    "DAM CONTRIBUTION": 4.37,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1951,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 346.9,
+    "DAM CONTRIBUTION": 18.16,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 57.2,
+    "DAM CONTRIBUTION": 16.34,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 13.5,
+    "DAM CONTRIBUTION": 17.65,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 17.8,
+    "DAM CONTRIBUTION": 16.87,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 113.7,
+    "DAM CONTRIBUTION": 4.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 109.5,
+    "DAM CONTRIBUTION": 10.43,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 51.8,
+    "DAM CONTRIBUTION": 9.49,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 339.2,
+    "DAM CONTRIBUTION": 11.56,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 140.6,
+    "DAM CONTRIBUTION": 4.9,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 169.4,
+    "DAM CONTRIBUTION": 11.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1952,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 204.3,
+    "DAM CONTRIBUTION": 15.86,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 54.9,
+    "DAM CONTRIBUTION": 6.74,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 216.6,
+    "DAM CONTRIBUTION": 9.79,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 162.5,
+    "DAM CONTRIBUTION": 5.76,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 263.8,
+    "DAM CONTRIBUTION": 7.11,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 287.3,
+    "DAM CONTRIBUTION": 10.36,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 235.1,
+    "DAM CONTRIBUTION": 14.19,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 151.9,
+    "DAM CONTRIBUTION": 12.06,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 37.2,
+    "DAM CONTRIBUTION": 6.19,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 46.7,
+    "DAM CONTRIBUTION": 14.87,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1953,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 33.9,
+    "DAM CONTRIBUTION": 15.38,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 118.3,
+    "DAM CONTRIBUTION": 9.95,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 68.8,
+    "DAM CONTRIBUTION": 14.39,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 220,
+    "DAM CONTRIBUTION": 9.04,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 179.4,
+    "DAM CONTRIBUTION": 9.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 124.8,
+    "DAM CONTRIBUTION": 17.99,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 140.4,
+    "DAM CONTRIBUTION": 15.43,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 103.8,
+    "DAM CONTRIBUTION": 15.29,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 45.2,
+    "DAM CONTRIBUTION": 14.79,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 270.7,
+    "DAM CONTRIBUTION": 6.86,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1954,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 115.5,
+    "DAM CONTRIBUTION": 5.9,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 211.3,
+    "DAM CONTRIBUTION": 17.31,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 185.3,
+    "DAM CONTRIBUTION": 16.84,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 38.2,
+    "DAM CONTRIBUTION": 4.81,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 119,
+    "DAM CONTRIBUTION": 5.61,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 1.1,
+    "DAM CONTRIBUTION": 14.69,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 45.1,
+    "DAM CONTRIBUTION": 14.24,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 53.5,
+    "DAM CONTRIBUTION": 12.11,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 160.4,
+    "DAM CONTRIBUTION": 15.85,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 86.3,
+    "DAM CONTRIBUTION": 9.65,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1955,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 80.5,
+    "DAM CONTRIBUTION": 5.71,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 22.3,
+    "DAM CONTRIBUTION": 11.89,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 325.3,
+    "DAM CONTRIBUTION": 8.61,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 73,
+    "DAM CONTRIBUTION": 10.17,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 117,
+    "DAM CONTRIBUTION": 8.32,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 140.5,
+    "DAM CONTRIBUTION": 12.91,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 57.5,
+    "DAM CONTRIBUTION": 10.09,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 42.8,
+    "DAM CONTRIBUTION": 15.91,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 64.8,
+    "DAM CONTRIBUTION": 7,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 83.3,
+    "DAM CONTRIBUTION": 6.55,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1956,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 81.6,
+    "DAM CONTRIBUTION": 18.07,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 180.5,
+    "DAM CONTRIBUTION": 6.57,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 35.6,
+    "DAM CONTRIBUTION": 5.4,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 230.6,
+    "DAM CONTRIBUTION": 9.78,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 76.4,
+    "DAM CONTRIBUTION": 15.68,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 104.7,
+    "DAM CONTRIBUTION": 11.07,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 25,
+    "DAM CONTRIBUTION": 12.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 77.3,
+    "DAM CONTRIBUTION": 10.24,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 76.1,
+    "DAM CONTRIBUTION": 15.61,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 66.5,
+    "DAM CONTRIBUTION": 5.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1957,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 62.1,
+    "DAM CONTRIBUTION": 13.31,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 96.4,
+    "DAM CONTRIBUTION": 6.38,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 140.5,
+    "DAM CONTRIBUTION": 16.51,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 52,
+    "DAM CONTRIBUTION": 14.33,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 91.5,
+    "DAM CONTRIBUTION": 15.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 96,
+    "DAM CONTRIBUTION": 6.16,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 24.5,
+    "DAM CONTRIBUTION": 5.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 43.5,
+    "DAM CONTRIBUTION": 6.48,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 162.8,
+    "DAM CONTRIBUTION": 8.36,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 46.4,
+    "DAM CONTRIBUTION": 7.2,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1958,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 102.4,
+    "DAM CONTRIBUTION": 8.42,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 311.3,
+    "DAM CONTRIBUTION": 7.02,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 18.5,
+    "DAM CONTRIBUTION": 10.98,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 145.6,
+    "DAM CONTRIBUTION": 16.49,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 163.7,
+    "DAM CONTRIBUTION": 5.61,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 51.1,
+    "DAM CONTRIBUTION": 15.72,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 74.2,
+    "DAM CONTRIBUTION": 8.79,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 71.9,
+    "DAM CONTRIBUTION": 10.69,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 22.9,
+    "DAM CONTRIBUTION": 14.49,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 40.5,
+    "DAM CONTRIBUTION": 15.22,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1959,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 100.6,
+    "DAM CONTRIBUTION": 4.53,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 111.4,
+    "DAM CONTRIBUTION": 6.76,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 85.3,
+    "DAM CONTRIBUTION": 13.09,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 55.2,
+    "DAM CONTRIBUTION": 15.99,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 44.9,
+    "DAM CONTRIBUTION": 9.98,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 29.3,
+    "DAM CONTRIBUTION": 5.99,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 73.1,
+    "DAM CONTRIBUTION": 4.61,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 109.1,
+    "DAM CONTRIBUTION": 4.62,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 169.2,
+    "DAM CONTRIBUTION": 10.69,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 55.5,
+    "DAM CONTRIBUTION": 6.22,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1960,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 117.2,
+    "DAM CONTRIBUTION": 6.19,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 6.8,
+    "DAM CONTRIBUTION": 12.55,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 100.6,
+    "DAM CONTRIBUTION": 13.93,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 101.6,
+    "DAM CONTRIBUTION": 12.98,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 64.2,
+    "DAM CONTRIBUTION": 5,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 103.9,
+    "DAM CONTRIBUTION": 7.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 32.5,
+    "DAM CONTRIBUTION": 10.63,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 61.5,
+    "DAM CONTRIBUTION": 9.54,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 39.6,
+    "DAM CONTRIBUTION": 7.9,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 68.7,
+    "DAM CONTRIBUTION": 9.62,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1961,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 17.2,
+    "DAM CONTRIBUTION": 6.75,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 93.6,
+    "DAM CONTRIBUTION": 11.03,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 94.3,
+    "DAM CONTRIBUTION": 6.58,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 24.3,
+    "DAM CONTRIBUTION": 17.3,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 203.6,
+    "DAM CONTRIBUTION": 5.15,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 69.4,
+    "DAM CONTRIBUTION": 16.54,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 133.3,
+    "DAM CONTRIBUTION": 5.23,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 27.1,
+    "DAM CONTRIBUTION": 10.14,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 163.4,
+    "DAM CONTRIBUTION": 17.84,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 166.8,
+    "DAM CONTRIBUTION": 7.23,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1962,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 166.7,
+    "DAM CONTRIBUTION": 8.22,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 138.2,
+    "DAM CONTRIBUTION": 12.93,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 69.6,
+    "DAM CONTRIBUTION": 5.07,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 60.5,
+    "DAM CONTRIBUTION": 10.84,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 175.6,
+    "DAM CONTRIBUTION": 13.87,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 116.7,
+    "DAM CONTRIBUTION": 6.26,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 229.1,
+    "DAM CONTRIBUTION": 10.28,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 223.5,
+    "DAM CONTRIBUTION": 7.47,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 30.9,
+    "DAM CONTRIBUTION": 13.05,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 95.5,
+    "DAM CONTRIBUTION": 10.32,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1963,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 319.8,
+    "DAM CONTRIBUTION": 18.39,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 349,
+    "DAM CONTRIBUTION": 17.04,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 207.4,
+    "DAM CONTRIBUTION": 8.76,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 250.2,
+    "DAM CONTRIBUTION": 8.86,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 73.8,
+    "DAM CONTRIBUTION": 7.64,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 237.6,
+    "DAM CONTRIBUTION": 14.75,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 107,
+    "DAM CONTRIBUTION": 9.56,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 125.6,
+    "DAM CONTRIBUTION": 13.09,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 108.8,
+    "DAM CONTRIBUTION": 14.85,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 435.8,
+    "DAM CONTRIBUTION": 14.14,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1964,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 383.5,
+    "DAM CONTRIBUTION": 15.07,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 163.3,
+    "DAM CONTRIBUTION": 9.27,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 356.4,
+    "DAM CONTRIBUTION": 8.25,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 78.3,
+    "DAM CONTRIBUTION": 16.38,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 153.2,
+    "DAM CONTRIBUTION": 11.96,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 144.3,
+    "DAM CONTRIBUTION": 15.55,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 262.7,
+    "DAM CONTRIBUTION": 7.63,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 262.8,
+    "DAM CONTRIBUTION": 14.98,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 56.2,
+    "DAM CONTRIBUTION": 6.53,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 342.6,
+    "DAM CONTRIBUTION": 8.14,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1965,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 283.7,
+    "DAM CONTRIBUTION": 16.47,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 187.1,
+    "DAM CONTRIBUTION": 15.92,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 194,
+    "DAM CONTRIBUTION": 5.71,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 158.7,
+    "DAM CONTRIBUTION": 15.15,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 401.4,
+    "DAM CONTRIBUTION": 11.96,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 187.1,
+    "DAM CONTRIBUTION": 10.18,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 284.9,
+    "DAM CONTRIBUTION": 7.48,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 420.4,
+    "DAM CONTRIBUTION": 12.82,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 119.7,
+    "DAM CONTRIBUTION": 8.86,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 140,
+    "DAM CONTRIBUTION": 9.83,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1966,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 60.5,
+    "DAM CONTRIBUTION": 6.87,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 117.5,
+    "DAM CONTRIBUTION": 9.99,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 112.7,
+    "DAM CONTRIBUTION": 10.72,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 290.7,
+    "DAM CONTRIBUTION": 14.47,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 247.6,
+    "DAM CONTRIBUTION": 12.73,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 320.8,
+    "DAM CONTRIBUTION": 14.93,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 111.1,
+    "DAM CONTRIBUTION": 4.65,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 411.9,
+    "DAM CONTRIBUTION": 13.92,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 215.1,
+    "DAM CONTRIBUTION": 9,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 429.8,
+    "DAM CONTRIBUTION": 7.66,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1967,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 284.1,
+    "DAM CONTRIBUTION": 8.72,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 243,
+    "DAM CONTRIBUTION": 12.99,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 81,
+    "DAM CONTRIBUTION": 18.13,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 174.7,
+    "DAM CONTRIBUTION": 17.07,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 156.3,
+    "DAM CONTRIBUTION": 6.88,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 224.1,
+    "DAM CONTRIBUTION": 12.92,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 272.2,
+    "DAM CONTRIBUTION": 5.56,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 77.6,
+    "DAM CONTRIBUTION": 12.81,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 358.6,
+    "DAM CONTRIBUTION": 14.06,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 215.4,
+    "DAM CONTRIBUTION": 5.14,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1968,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 222.4,
+    "DAM CONTRIBUTION": 13.85,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 153.9,
+    "DAM CONTRIBUTION": 12.26,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 248.9,
+    "DAM CONTRIBUTION": 11.64,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 332,
+    "DAM CONTRIBUTION": 6.11,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 225.7,
+    "DAM CONTRIBUTION": 16.17,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 176,
+    "DAM CONTRIBUTION": 5.8,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 283.9,
+    "DAM CONTRIBUTION": 17.27,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 289.6,
+    "DAM CONTRIBUTION": 4.65,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 106.9,
+    "DAM CONTRIBUTION": 6.45,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 156.2,
+    "DAM CONTRIBUTION": 7.31,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1969,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 250.9,
+    "DAM CONTRIBUTION": 18.44,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 181.3,
+    "DAM CONTRIBUTION": 5.44,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 258.5,
+    "DAM CONTRIBUTION": 12.16,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 318.9,
+    "DAM CONTRIBUTION": 5.51,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 155,
+    "DAM CONTRIBUTION": 13.64,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 259.9,
+    "DAM CONTRIBUTION": 15.83,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 380.9,
+    "DAM CONTRIBUTION": 18,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 165.4,
+    "DAM CONTRIBUTION": 11.96,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 317.6,
+    "DAM CONTRIBUTION": 6.43,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 318,
+    "DAM CONTRIBUTION": 11.58,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1970,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 223.1,
+    "DAM CONTRIBUTION": 7.44,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 249.5,
+    "DAM CONTRIBUTION": 7.44,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 129.7,
+    "DAM CONTRIBUTION": 6.14,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 150.5,
+    "DAM CONTRIBUTION": 14.06,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 141.8,
+    "DAM CONTRIBUTION": 17.29,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 294.3,
+    "DAM CONTRIBUTION": 8.64,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 240,
+    "DAM CONTRIBUTION": 17.09,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 272,
+    "DAM CONTRIBUTION": 15.68,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 245,
+    "DAM CONTRIBUTION": 12.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 146.6,
+    "DAM CONTRIBUTION": 14.1,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1971,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 226.2,
+    "DAM CONTRIBUTION": 14.25,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 204.3,
+    "DAM CONTRIBUTION": 5.83,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 283.7,
+    "DAM CONTRIBUTION": 7.25,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 253.3,
+    "DAM CONTRIBUTION": 12.5,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 214.4,
+    "DAM CONTRIBUTION": 11.43,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 260.2,
+    "DAM CONTRIBUTION": 9.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 92.1,
+    "DAM CONTRIBUTION": 9.36,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 259.8,
+    "DAM CONTRIBUTION": 9.37,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 310.8,
+    "DAM CONTRIBUTION": 11.44,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 256,
+    "DAM CONTRIBUTION": 5.77,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1972,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 196.6,
+    "DAM CONTRIBUTION": 8.16,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 118.1,
+    "DAM CONTRIBUTION": 10.5,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 70.9,
+    "DAM CONTRIBUTION": 5.53,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 95.5,
+    "DAM CONTRIBUTION": 9.48,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 126.4,
+    "DAM CONTRIBUTION": 8.51,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 130.6,
+    "DAM CONTRIBUTION": 16.69,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 178.5,
+    "DAM CONTRIBUTION": 17.5,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 380.9,
+    "DAM CONTRIBUTION": 11.11,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 80,
+    "DAM CONTRIBUTION": 16.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 341.5,
+    "DAM CONTRIBUTION": 17.72,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1973,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 167.9,
+    "DAM CONTRIBUTION": 17.55,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 167.9,
+    "DAM CONTRIBUTION": 15.57,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 113.3,
+    "DAM CONTRIBUTION": 8.42,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 275.9,
+    "DAM CONTRIBUTION": 14.48,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 284.1,
+    "DAM CONTRIBUTION": 15.74,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 365,
+    "DAM CONTRIBUTION": 9.08,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 278.5,
+    "DAM CONTRIBUTION": 6.31,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 261,
+    "DAM CONTRIBUTION": 9.32,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 142.8,
+    "DAM CONTRIBUTION": 5.72,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 349.9,
+    "DAM CONTRIBUTION": 9.54,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1974,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 179.4,
+    "DAM CONTRIBUTION": 14.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 261.1,
+    "DAM CONTRIBUTION": 5.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 218.6,
+    "DAM CONTRIBUTION": 10.24,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 137.6,
+    "DAM CONTRIBUTION": 15.81,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 198.6,
+    "DAM CONTRIBUTION": 15.12,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 328.5,
+    "DAM CONTRIBUTION": 11.37,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 281.9,
+    "DAM CONTRIBUTION": 14.04,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 257.9,
+    "DAM CONTRIBUTION": 17.66,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 273.9,
+    "DAM CONTRIBUTION": 15.57,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 154.2,
+    "DAM CONTRIBUTION": 10.66,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1975,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 264.4,
+    "DAM CONTRIBUTION": 16.33,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 220.4,
+    "DAM CONTRIBUTION": 10.6,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 155.2,
+    "DAM CONTRIBUTION": 4.32,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 215.2,
+    "DAM CONTRIBUTION": 16.27,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 474.4,
+    "DAM CONTRIBUTION": 16.86,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 338,
+    "DAM CONTRIBUTION": 10.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 202.9,
+    "DAM CONTRIBUTION": 7.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 545.1,
+    "DAM CONTRIBUTION": 8.05,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 146.4,
+    "DAM CONTRIBUTION": 11.06,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 215.3,
+    "DAM CONTRIBUTION": 6.83,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1976,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 147.7,
+    "DAM CONTRIBUTION": 6,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 296.2,
+    "DAM CONTRIBUTION": 14.14,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 335.6,
+    "DAM CONTRIBUTION": 8.68,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 146.6,
+    "DAM CONTRIBUTION": 9.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 429,
+    "DAM CONTRIBUTION": 7.42,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 217.7,
+    "DAM CONTRIBUTION": 8.63,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 217.6,
+    "DAM CONTRIBUTION": 8.97,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 215.5,
+    "DAM CONTRIBUTION": 14.97,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 183.5,
+    "DAM CONTRIBUTION": 17.61,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 424.1,
+    "DAM CONTRIBUTION": 4.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1977,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 128.3,
+    "DAM CONTRIBUTION": 13.44,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 351.8,
+    "DAM CONTRIBUTION": 17.18,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 415.7,
+    "DAM CONTRIBUTION": 14.81,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 157.5,
+    "DAM CONTRIBUTION": 9.24,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 211.6,
+    "DAM CONTRIBUTION": 14.36,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 163.9,
+    "DAM CONTRIBUTION": 14.1,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 206.1,
+    "DAM CONTRIBUTION": 4.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 312.4,
+    "DAM CONTRIBUTION": 7.6,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 347.7,
+    "DAM CONTRIBUTION": 4.94,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 349.8,
+    "DAM CONTRIBUTION": 6.3,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1978,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 286,
+    "DAM CONTRIBUTION": 9.15,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 179.1,
+    "DAM CONTRIBUTION": 8.01,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 519.5,
+    "DAM CONTRIBUTION": 12.51,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 235.9,
+    "DAM CONTRIBUTION": 6.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 387.5,
+    "DAM CONTRIBUTION": 13.01,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 350.5,
+    "DAM CONTRIBUTION": 13.59,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 369.7,
+    "DAM CONTRIBUTION": 13.48,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 137.2,
+    "DAM CONTRIBUTION": 5.72,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 182.6,
+    "DAM CONTRIBUTION": 10.64,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 205.5,
+    "DAM CONTRIBUTION": 9.07,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1979,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 239.4,
+    "DAM CONTRIBUTION": 9.52,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 304.2,
+    "DAM CONTRIBUTION": 17.24,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 183.2,
+    "DAM CONTRIBUTION": 5.39,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 441.1,
+    "DAM CONTRIBUTION": 17.37,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 235.5,
+    "DAM CONTRIBUTION": 9.59,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 339.9,
+    "DAM CONTRIBUTION": 13.56,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 284,
+    "DAM CONTRIBUTION": 11.86,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 325.8,
+    "DAM CONTRIBUTION": 5.85,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 392.9,
+    "DAM CONTRIBUTION": 12.02,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 318.8,
+    "DAM CONTRIBUTION": 9.87,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1980,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 207,
+    "DAM CONTRIBUTION": 13.64,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 363.1,
+    "DAM CONTRIBUTION": 5.03,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 312.2,
+    "DAM CONTRIBUTION": 11.36,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 142.5,
+    "DAM CONTRIBUTION": 18.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 200.6,
+    "DAM CONTRIBUTION": 8.04,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 253.8,
+    "DAM CONTRIBUTION": 9.24,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 291.9,
+    "DAM CONTRIBUTION": 13.25,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 395.9,
+    "DAM CONTRIBUTION": 13.52,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 346.6,
+    "DAM CONTRIBUTION": 13.59,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 220.3,
+    "DAM CONTRIBUTION": 12.51,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1981,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 421.3,
+    "DAM CONTRIBUTION": 17.5,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 478.8,
+    "DAM CONTRIBUTION": 14.96,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 372.9,
+    "DAM CONTRIBUTION": 4.46,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 357.7,
+    "DAM CONTRIBUTION": 4.89,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 350.5,
+    "DAM CONTRIBUTION": 10.48,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 316.1,
+    "DAM CONTRIBUTION": 5.23,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 409.3,
+    "DAM CONTRIBUTION": 8.16,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 260,
+    "DAM CONTRIBUTION": 11.74,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 345.7,
+    "DAM CONTRIBUTION": 5.34,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 297.2,
+    "DAM CONTRIBUTION": 14.92,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1982,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 386.7,
+    "DAM CONTRIBUTION": 13.03,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 364.4,
+    "DAM CONTRIBUTION": 5.6,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 536,
+    "DAM CONTRIBUTION": 13.77,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 294.4,
+    "DAM CONTRIBUTION": 15.86,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 237.5,
+    "DAM CONTRIBUTION": 5.38,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 362.7,
+    "DAM CONTRIBUTION": 11.97,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 278.9,
+    "DAM CONTRIBUTION": 18.03,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 369.5,
+    "DAM CONTRIBUTION": 11.78,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 384.2,
+    "DAM CONTRIBUTION": 5,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 262.2,
+    "DAM CONTRIBUTION": 9.7,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1983,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 314.4,
+    "DAM CONTRIBUTION": 17.67,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 236.9,
+    "DAM CONTRIBUTION": 14.23,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 385.8,
+    "DAM CONTRIBUTION": 9.12,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 252.1,
+    "DAM CONTRIBUTION": 15.5,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 366.3,
+    "DAM CONTRIBUTION": 16.92,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 334.8,
+    "DAM CONTRIBUTION": 13,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 208.4,
+    "DAM CONTRIBUTION": 9.51,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 188,
+    "DAM CONTRIBUTION": 9.31,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 136.2,
+    "DAM CONTRIBUTION": 10.4,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 198.9,
+    "DAM CONTRIBUTION": 15.81,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1984,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 317.7,
+    "DAM CONTRIBUTION": 8.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 228,
+    "DAM CONTRIBUTION": 4.86,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 421.9,
+    "DAM CONTRIBUTION": 10.78,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 130.5,
+    "DAM CONTRIBUTION": 15.73,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 501.9,
+    "DAM CONTRIBUTION": 10.34,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 220.6,
+    "DAM CONTRIBUTION": 6.9,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 205.8,
+    "DAM CONTRIBUTION": 12.91,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 172.7,
+    "DAM CONTRIBUTION": 14.04,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 291.5,
+    "DAM CONTRIBUTION": 4.79,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 343.3,
+    "DAM CONTRIBUTION": 17.15,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1985,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 341.2,
+    "DAM CONTRIBUTION": 11.35,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 432.6,
+    "DAM CONTRIBUTION": 16.39,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 211,
+    "DAM CONTRIBUTION": 6.69,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 276.6,
+    "DAM CONTRIBUTION": 6.94,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 589.2,
+    "DAM CONTRIBUTION": 16.21,
+    "ELEVATION": 0.87,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 227,
+    "DAM CONTRIBUTION": 5.1,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 366.7,
+    "DAM CONTRIBUTION": 14.71,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 316.6,
+    "DAM CONTRIBUTION": 13.06,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 243.3,
+    "DAM CONTRIBUTION": 16.63,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 190.1,
+    "DAM CONTRIBUTION": 11.52,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1986,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 512.3,
+    "DAM CONTRIBUTION": 17.57,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 588.6,
+    "DAM CONTRIBUTION": 13.67,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 240.5,
+    "DAM CONTRIBUTION": 9.38,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 377.5,
+    "DAM CONTRIBUTION": 12.67,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 362.6,
+    "DAM CONTRIBUTION": 4.85,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 373.5,
+    "DAM CONTRIBUTION": 14.5,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 281.3,
+    "DAM CONTRIBUTION": 16.06,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 339.8,
+    "DAM CONTRIBUTION": 16.63,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 416.2,
+    "DAM CONTRIBUTION": 6.75,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 452.7,
+    "DAM CONTRIBUTION": 5.42,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1987,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 466.3,
+    "DAM CONTRIBUTION": 5.02,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 331.9,
+    "DAM CONTRIBUTION": 10.41,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 713,
+    "DAM CONTRIBUTION": 13.84,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 237.8,
+    "DAM CONTRIBUTION": 4.58,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 379.5,
+    "DAM CONTRIBUTION": 6.66,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 321,
+    "DAM CONTRIBUTION": 11.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 676.3,
+    "DAM CONTRIBUTION": 11.44,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 377.7,
+    "DAM CONTRIBUTION": 16.22,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 287.6,
+    "DAM CONTRIBUTION": 11.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 551.4,
+    "DAM CONTRIBUTION": 6.95,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1988,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 382.8,
+    "DAM CONTRIBUTION": 8.51,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 185,
+    "DAM CONTRIBUTION": 11.77,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 399.2,
+    "DAM CONTRIBUTION": 4.41,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 268.4,
+    "DAM CONTRIBUTION": 10.98,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 458.1,
+    "DAM CONTRIBUTION": 15.37,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 198,
+    "DAM CONTRIBUTION": 13.19,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 321.1,
+    "DAM CONTRIBUTION": 7.63,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 447.1,
+    "DAM CONTRIBUTION": 17.07,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 292.6,
+    "DAM CONTRIBUTION": 9.94,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 415.2,
+    "DAM CONTRIBUTION": 15.92,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1989,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 344.7,
+    "DAM CONTRIBUTION": 15.8,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 322,
+    "DAM CONTRIBUTION": 10.36,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 393.9,
+    "DAM CONTRIBUTION": 13.45,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 431,
+    "DAM CONTRIBUTION": 15.1,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 300.5,
+    "DAM CONTRIBUTION": 8.84,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 381.8,
+    "DAM CONTRIBUTION": 15.09,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 386.5,
+    "DAM CONTRIBUTION": 17.47,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 379.5,
+    "DAM CONTRIBUTION": 12.87,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 287.1,
+    "DAM CONTRIBUTION": 16.93,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 480.8,
+    "DAM CONTRIBUTION": 13.4,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1990,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 438.7,
+    "DAM CONTRIBUTION": 15.21,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 371.2,
+    "DAM CONTRIBUTION": 15.41,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 302.7,
+    "DAM CONTRIBUTION": 8.04,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 408.4,
+    "DAM CONTRIBUTION": 8.74,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 382.4,
+    "DAM CONTRIBUTION": 14.36,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 400.3,
+    "DAM CONTRIBUTION": 16.17,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 348,
+    "DAM CONTRIBUTION": 16.27,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 289.5,
+    "DAM CONTRIBUTION": 6.04,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 427.1,
+    "DAM CONTRIBUTION": 12.25,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 415.2,
+    "DAM CONTRIBUTION": 14.79,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1991,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 359.5,
+    "DAM CONTRIBUTION": 6.28,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 273.6,
+    "DAM CONTRIBUTION": 7.42,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 397.3,
+    "DAM CONTRIBUTION": 12.23,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 495.3,
+    "DAM CONTRIBUTION": 17.88,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 462.9,
+    "DAM CONTRIBUTION": 9.29,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 325.7,
+    "DAM CONTRIBUTION": 17.38,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 364.4,
+    "DAM CONTRIBUTION": 9.24,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 433,
+    "DAM CONTRIBUTION": 13.54,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 185,
+    "DAM CONTRIBUTION": 9.01,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 262,
+    "DAM CONTRIBUTION": 8.39,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1992,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 481.2,
+    "DAM CONTRIBUTION": 17.32,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 281.3,
+    "DAM CONTRIBUTION": 4.36,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 392.8,
+    "DAM CONTRIBUTION": 15.14,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 481.2,
+    "DAM CONTRIBUTION": 17.39,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 286.3,
+    "DAM CONTRIBUTION": 12.72,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 555.7,
+    "DAM CONTRIBUTION": 18.23,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 430.2,
+    "DAM CONTRIBUTION": 8.26,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 420,
+    "DAM CONTRIBUTION": 14.75,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 568.5,
+    "DAM CONTRIBUTION": 5.93,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 366.6,
+    "DAM CONTRIBUTION": 10.21,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1993,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 420.5,
+    "DAM CONTRIBUTION": 5.65,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 428.7,
+    "DAM CONTRIBUTION": 13.61,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 226.7,
+    "DAM CONTRIBUTION": 12,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 516.7,
+    "DAM CONTRIBUTION": 11.79,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 270.2,
+    "DAM CONTRIBUTION": 17.27,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 585.4,
+    "DAM CONTRIBUTION": 10.69,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 319.8,
+    "DAM CONTRIBUTION": 18.11,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 590.3,
+    "DAM CONTRIBUTION": 6.67,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 340.2,
+    "DAM CONTRIBUTION": 16.82,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 243,
+    "DAM CONTRIBUTION": 5.75,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1994,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 307.2,
+    "DAM CONTRIBUTION": 16.35,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 338.1,
+    "DAM CONTRIBUTION": 10.6,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 358.9,
+    "DAM CONTRIBUTION": 14.95,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 285.7,
+    "DAM CONTRIBUTION": 17.04,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 488.1,
+    "DAM CONTRIBUTION": 15.78,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 465.7,
+    "DAM CONTRIBUTION": 11.82,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 288.1,
+    "DAM CONTRIBUTION": 14.7,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 512.1,
+    "DAM CONTRIBUTION": 17.37,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 355.3,
+    "DAM CONTRIBUTION": 10.08,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 369.5,
+    "DAM CONTRIBUTION": 9.5,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1995,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 358.9,
+    "DAM CONTRIBUTION": 11.81,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 323.3,
+    "DAM CONTRIBUTION": 9,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 355.9,
+    "DAM CONTRIBUTION": 8.97,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 208.2,
+    "DAM CONTRIBUTION": 16.63,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 243.9,
+    "DAM CONTRIBUTION": 10.55,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 491.8,
+    "DAM CONTRIBUTION": 14.61,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 370.2,
+    "DAM CONTRIBUTION": 12.62,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 369.1,
+    "DAM CONTRIBUTION": 16.9,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 256.6,
+    "DAM CONTRIBUTION": 17.97,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 328.3,
+    "DAM CONTRIBUTION": 8.87,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1996,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 162.6,
+    "DAM CONTRIBUTION": 9.46,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 270.2,
+    "DAM CONTRIBUTION": 12.75,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 191.3,
+    "DAM CONTRIBUTION": 16.51,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 271.9,
+    "DAM CONTRIBUTION": 8.7,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 326.9,
+    "DAM CONTRIBUTION": 13.45,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 351.7,
+    "DAM CONTRIBUTION": 11.69,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 480.8,
+    "DAM CONTRIBUTION": 7.79,
+    "ELEVATION": 0.44,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 231.8,
+    "DAM CONTRIBUTION": 12.73,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 272.1,
+    "DAM CONTRIBUTION": 10.25,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 62.5,
+    "DAM CONTRIBUTION": 9.29,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1997,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 160,
+    "DAM CONTRIBUTION": 13.12,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 96.1,
+    "DAM CONTRIBUTION": 14.56,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 9.4,
+    "DAM CONTRIBUTION": 5.56,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 12.3,
+    "DAM CONTRIBUTION": 14.15,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 152.2,
+    "DAM CONTRIBUTION": 6.29,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 213.7,
+    "DAM CONTRIBUTION": 14.52,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 198.8,
+    "DAM CONTRIBUTION": 4.96,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 64.8,
+    "DAM CONTRIBUTION": 5.05,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 194.2,
+    "DAM CONTRIBUTION": 9.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 27.4,
+    "DAM CONTRIBUTION": 8.77,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1998,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 133.5,
+    "DAM CONTRIBUTION": 6.68,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 122.6,
+    "DAM CONTRIBUTION": 5.11,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 36.5,
+    "DAM CONTRIBUTION": 8.62,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 112.3,
+    "DAM CONTRIBUTION": 13.26,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 238.9,
+    "DAM CONTRIBUTION": 16.06,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 209.9,
+    "DAM CONTRIBUTION": 4.52,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 49,
+    "DAM CONTRIBUTION": 7.38,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 179.6,
+    "DAM CONTRIBUTION": 13.92,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 52.4,
+    "DAM CONTRIBUTION": 7.25,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 79.1,
+    "DAM CONTRIBUTION": 16.81,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 1999,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 31.5,
+    "DAM CONTRIBUTION": 14.57,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 69.8,
+    "DAM CONTRIBUTION": 4.88,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 78.6,
+    "DAM CONTRIBUTION": 12.45,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 29.2,
+    "DAM CONTRIBUTION": 12.95,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 212.3,
+    "DAM CONTRIBUTION": 7.31,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 47.7,
+    "DAM CONTRIBUTION": 9.83,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 91.8,
+    "DAM CONTRIBUTION": 14.15,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 63.2,
+    "DAM CONTRIBUTION": 9.15,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 38.2,
+    "DAM CONTRIBUTION": 17.19,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 119.2,
+    "DAM CONTRIBUTION": 14.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2000,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 38.5,
+    "DAM CONTRIBUTION": 9.16,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 242,
+    "DAM CONTRIBUTION": 5.41,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 104.8,
+    "DAM CONTRIBUTION": 7.95,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 64.6,
+    "DAM CONTRIBUTION": 4.96,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 17.3,
+    "DAM CONTRIBUTION": 16.42,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 114,
+    "DAM CONTRIBUTION": 8.96,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 59.2,
+    "DAM CONTRIBUTION": 14.75,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 79.5,
+    "DAM CONTRIBUTION": 9.3,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 85.6,
+    "DAM CONTRIBUTION": 9.75,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 13.4,
+    "DAM CONTRIBUTION": 13.33,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2001,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 146.7,
+    "DAM CONTRIBUTION": 12.37,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 13.4,
+    "DAM CONTRIBUTION": 5.75,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 196.4,
+    "DAM CONTRIBUTION": 14.06,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 102.9,
+    "DAM CONTRIBUTION": 14.03,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 156.5,
+    "DAM CONTRIBUTION": 8.1,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 260.4,
+    "DAM CONTRIBUTION": 17.04,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 74.7,
+    "DAM CONTRIBUTION": 13.62,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 231.8,
+    "DAM CONTRIBUTION": 15.15,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 21,
+    "DAM CONTRIBUTION": 10.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 87.7,
+    "DAM CONTRIBUTION": 11.9,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2002,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 32.7,
+    "DAM CONTRIBUTION": 15.12,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 450.3,
+    "DAM CONTRIBUTION": 6.08,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 207,
+    "DAM CONTRIBUTION": 14.69,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 140.8,
+    "DAM CONTRIBUTION": 4.63,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 175.4,
+    "DAM CONTRIBUTION": 8.22,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 90.4,
+    "DAM CONTRIBUTION": 5.61,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 80.8,
+    "DAM CONTRIBUTION": 11.35,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 69,
+    "DAM CONTRIBUTION": 18.05,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 42.9,
+    "DAM CONTRIBUTION": 18.44,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 127.2,
+    "DAM CONTRIBUTION": 14.86,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2003,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 103.2,
+    "DAM CONTRIBUTION": 13.91,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 123.6,
+    "DAM CONTRIBUTION": 17.77,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 184.9,
+    "DAM CONTRIBUTION": 8.95,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 112.1,
+    "DAM CONTRIBUTION": 9.81,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 6.8,
+    "DAM CONTRIBUTION": 11.09,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 61.2,
+    "DAM CONTRIBUTION": 15.9,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 165.2,
+    "DAM CONTRIBUTION": 9.34,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 35.5,
+    "DAM CONTRIBUTION": 11.67,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 327.5,
+    "DAM CONTRIBUTION": 7,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 134.1,
+    "DAM CONTRIBUTION": 13.8,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2004,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 24.9,
+    "DAM CONTRIBUTION": 6.43,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 78.6,
+    "DAM CONTRIBUTION": 11.53,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 26.1,
+    "DAM CONTRIBUTION": 5.26,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 189.3,
+    "DAM CONTRIBUTION": 14.84,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 188.2,
+    "DAM CONTRIBUTION": 12.72,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 88.6,
+    "DAM CONTRIBUTION": 11.35,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 170.3,
+    "DAM CONTRIBUTION": 16.55,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 634,
+    "DAM CONTRIBUTION": 13.02,
+    "ELEVATION": 0.33,
+    "OUTCOME": 1
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 58.1,
+    "DAM CONTRIBUTION": 11.82,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 163.8,
+    "DAM CONTRIBUTION": 6.67,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2005,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 114.1,
+    "DAM CONTRIBUTION": 17.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 246.3,
+    "DAM CONTRIBUTION": 5.78,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 153.2,
+    "DAM CONTRIBUTION": 6.17,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 118.6,
+    "DAM CONTRIBUTION": 15.8,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 93,
+    "DAM CONTRIBUTION": 18.43,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 33.5,
+    "DAM CONTRIBUTION": 9.74,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 110.8,
+    "DAM CONTRIBUTION": 15.25,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 60.6,
+    "DAM CONTRIBUTION": 16.59,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 259.4,
+    "DAM CONTRIBUTION": 16.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 44.2,
+    "DAM CONTRIBUTION": 17.77,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2006,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 111.9,
+    "DAM CONTRIBUTION": 10.86,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 4,
+    "DAM CONTRIBUTION": 7.99,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 137.5,
+    "DAM CONTRIBUTION": 4.78,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 45.4,
+    "DAM CONTRIBUTION": 9.83,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 23.9,
+    "DAM CONTRIBUTION": 14.72,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 95.7,
+    "DAM CONTRIBUTION": 17.77,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 94.4,
+    "DAM CONTRIBUTION": 9.32,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 17.4,
+    "DAM CONTRIBUTION": 15.58,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 46.2,
+    "DAM CONTRIBUTION": 15.48,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 116.9,
+    "DAM CONTRIBUTION": 10.46,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2007,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 117.5,
+    "DAM CONTRIBUTION": 14.52,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 190.7,
+    "DAM CONTRIBUTION": 6.39,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 227.7,
+    "DAM CONTRIBUTION": 10.45,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 68.4,
+    "DAM CONTRIBUTION": 10.16,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 189.8,
+    "DAM CONTRIBUTION": 12.24,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 405.4,
+    "DAM CONTRIBUTION": 4.97,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 115.1,
+    "DAM CONTRIBUTION": 15.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 106,
+    "DAM CONTRIBUTION": 16.49,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 391.3,
+    "DAM CONTRIBUTION": 17.21,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 290.9,
+    "DAM CONTRIBUTION": 9.38,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2008,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 34.5,
+    "DAM CONTRIBUTION": 4.94,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 83.3,
+    "DAM CONTRIBUTION": 9.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 118.8,
+    "DAM CONTRIBUTION": 5.63,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 10.6,
+    "DAM CONTRIBUTION": 5.08,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 230,
+    "DAM CONTRIBUTION": 13.5,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 143.3,
+    "DAM CONTRIBUTION": 8.66,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 44.7,
+    "DAM CONTRIBUTION": 4.75,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 57.7,
+    "DAM CONTRIBUTION": 17.38,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 38.9,
+    "DAM CONTRIBUTION": 7,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 146,
+    "DAM CONTRIBUTION": 5.03,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2009,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 234.9,
+    "DAM CONTRIBUTION": 13.39,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 52.7,
+    "DAM CONTRIBUTION": 15.97,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 193.6,
+    "DAM CONTRIBUTION": 16.16,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 353.7,
+    "DAM CONTRIBUTION": 9.08,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 17.6,
+    "DAM CONTRIBUTION": 14.41,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 78.1,
+    "DAM CONTRIBUTION": 13.63,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 31.7,
+    "DAM CONTRIBUTION": 15.27,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 405.1,
+    "DAM CONTRIBUTION": 16.44,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 314.3,
+    "DAM CONTRIBUTION": 14.44,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 81.9,
+    "DAM CONTRIBUTION": 10.69,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2010,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 198.7,
+    "DAM CONTRIBUTION": 6.01,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 14.2,
+    "DAM CONTRIBUTION": 6.53,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 359.1,
+    "DAM CONTRIBUTION": 5.4,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 113.9,
+    "DAM CONTRIBUTION": 8.3,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 138.3,
+    "DAM CONTRIBUTION": 12.51,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 20.6,
+    "DAM CONTRIBUTION": 18.13,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 102.8,
+    "DAM CONTRIBUTION": 8.57,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 86.4,
+    "DAM CONTRIBUTION": 7.4,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 129.2,
+    "DAM CONTRIBUTION": 4.42,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 227.5,
+    "DAM CONTRIBUTION": 10.27,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2011,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 81.2,
+    "DAM CONTRIBUTION": 16.67,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 187.6,
+    "DAM CONTRIBUTION": 9.01,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 175.8,
+    "DAM CONTRIBUTION": 11.5,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 320.1,
+    "DAM CONTRIBUTION": 10.63,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 26.3,
+    "DAM CONTRIBUTION": 15.52,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 91.6,
+    "DAM CONTRIBUTION": 4.49,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 119.8,
+    "DAM CONTRIBUTION": 17.1,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 40.7,
+    "DAM CONTRIBUTION": 16.74,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 162.6,
+    "DAM CONTRIBUTION": 12.34,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 152.2,
+    "DAM CONTRIBUTION": 10.03,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2012,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 72.2,
+    "DAM CONTRIBUTION": 9.72,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 339.5,
+    "DAM CONTRIBUTION": 15.46,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 104.6,
+    "DAM CONTRIBUTION": 12.1,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 252.7,
+    "DAM CONTRIBUTION": 4.33,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 49.8,
+    "DAM CONTRIBUTION": 15.2,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 241.1,
+    "DAM CONTRIBUTION": 16.7,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 306.6,
+    "DAM CONTRIBUTION": 13.52,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 7.3,
+    "DAM CONTRIBUTION": 16.96,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 11.6,
+    "DAM CONTRIBUTION": 13.55,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 104.5,
+    "DAM CONTRIBUTION": 17.47,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2013,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 522,
+    "DAM CONTRIBUTION": 7.18,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 311.4,
+    "DAM CONTRIBUTION": 7.62,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 135,
+    "DAM CONTRIBUTION": 6.48,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 16.1,
+    "DAM CONTRIBUTION": 11.49,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 335.9,
+    "DAM CONTRIBUTION": 12.56,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 377.6,
+    "DAM CONTRIBUTION": 13.14,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 73.1,
+    "DAM CONTRIBUTION": 5.31,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 297.7,
+    "DAM CONTRIBUTION": 18.24,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 227.1,
+    "DAM CONTRIBUTION": 9.27,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 227.6,
+    "DAM CONTRIBUTION": 12.62,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2014,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 114.6,
+    "DAM CONTRIBUTION": 15.3,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 24.1,
+    "DAM CONTRIBUTION": 8.74,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 183.9,
+    "DAM CONTRIBUTION": 4.88,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 123.8,
+    "DAM CONTRIBUTION": 11.77,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 45.8,
+    "DAM CONTRIBUTION": 16.94,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 191.9,
+    "DAM CONTRIBUTION": 15.56,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 321.8,
+    "DAM CONTRIBUTION": 6.34,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 134.9,
+    "DAM CONTRIBUTION": 17.48,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 23,
+    "DAM CONTRIBUTION": 7.96,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 387,
+    "DAM CONTRIBUTION": 10.05,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2015,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 68.7,
+    "DAM CONTRIBUTION": 6.65,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 318.5,
+    "DAM CONTRIBUTION": 16.15,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 149.5,
+    "DAM CONTRIBUTION": 13.65,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 160,
+    "DAM CONTRIBUTION": 13.76,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 52.3,
+    "DAM CONTRIBUTION": 15.53,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 46.3,
+    "DAM CONTRIBUTION": 8.68,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 24,
+    "DAM CONTRIBUTION": 5.44,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 137.9,
+    "DAM CONTRIBUTION": 8.98,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 25.8,
+    "DAM CONTRIBUTION": 13.51,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 180.8,
+    "DAM CONTRIBUTION": 15.09,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2016,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 89.2,
+    "DAM CONTRIBUTION": 6.08,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "AMALIYA",
+    "RAINFALL AMOUNT": 18.1,
+    "DAM CONTRIBUTION": 10.08,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "SHIRA",
+    "RAINFALL AMOUNT": 115.9,
+    "DAM CONTRIBUTION": 15.17,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "GAMOD",
+    "RAINFALL AMOUNT": 25.7,
+    "DAM CONTRIBUTION": 6.02,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "KUVAD",
+    "RAINFALL AMOUNT": 190.4,
+    "DAM CONTRIBUTION": 13.15,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "DELAD",
+    "RAINFALL AMOUNT": 58,
+    "DAM CONTRIBUTION": 17.34,
+    "ELEVATION": 0.66,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "VADIYA",
+    "RAINFALL AMOUNT": 226.2,
+    "DAM CONTRIBUTION": 10.66,
+    "ELEVATION": 0.44,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "SAVLI",
+    "RAINFALL AMOUNT": 41.8,
+    "DAM CONTRIBUTION": 11.34,
+    "ELEVATION": 0.33,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "NAMARIYA",
+    "RAINFALL AMOUNT": 244.1,
+    "DAM CONTRIBUTION": 11.86,
+    "ELEVATION": 0.69,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "VARETHI",
+    "RAINFALL AMOUNT": 147.8,
+    "DAM CONTRIBUTION": 144.46,
+    "ELEVATION": 0.87,
+    "OUTCOME": 0
+  },
+  {
+    "YEAR": 2017,
+    "VILLAGE NAME": "NAGOD",
+    "RAINFALL AMOUNT": 43.7,
+    "DAM CONTRIBUTION": 1222.65,
+    "ELEVATION": 0.66,
+    "OUTCOME": -1
+  }
+]
